@@ -1,0 +1,8 @@
+*.pyc
+*.pth
+*.tar.gz
+*.csv
+.ipynb_checkpoints
+.idea
+__pycache__
+data
